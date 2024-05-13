@@ -1,2 +1,2 @@
 # My_First_Chatbot
-Chatbot simples criado com Google Colab e Gemini API
+Meu primeiro chatbot simples criado com Google Colab e Gemini API
